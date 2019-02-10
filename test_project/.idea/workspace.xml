@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba51d700-4642-4e09-8e38-dc9f4ca0ac8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tensorflow-for-poets-2/test_images/test-two-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow-for-poets-2/test_images/test_six-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow-for-poets-2/test_images/test_six.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/Screenshot_CC-BY_by_Felipe_Venancio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/assets/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/assets/graph.lite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/assets/labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/java/com/example/android/tflitecamerademo/AutoFitTextureView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/java/com/example/android/tflitecamerademo/Camera2BasicFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/java/com/example/android/tflitecamerademo/CameraActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/java/com/example/android/tflitecamerademo/ImageClassifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/drawable-hdpi/ic_action_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/drawable-hdpi/tile.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/drawable-mdpi/ic_action_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/drawable-xhdpi/ic_action_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/drawable-xxhdpi/ic_action_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/layout-land/fragment_camera2_basic.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/layout/activity_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/layout/fragment_camera2_basic.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/values-sw600dp/template-dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/values-sw600dp/template-styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/values-v11/template-styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/values-v21/base-colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/values-v21/base-template-styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/values/base-strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/values/template-dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/app/src/main/res/values/template-styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tflite/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/Screenshot_CC-BY_by_Felipe_Venancio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/assets/.empty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/assets/graph.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/assets/labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/bin/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/drawable-hdpi/ic_action_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/drawable-hdpi/tile.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/drawable-mdpi/ic_action_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/drawable-xhdpi/ic_action_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/drawable-xxhdpi/ic_action_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/layout/activity_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/layout/camera_connection_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/layout/camera_connection_fragment_stylize.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/layout/camera_connection_fragment_tracking.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/values-sw600dp/template-dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/values-sw600dp/template-styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/values-v11/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/values-v11/template-styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/values-v14/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/values-v21/base-colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/values-v21/base-template-styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/values/base-strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/values/template-dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/res/values/template-styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/sample_images/classify1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/sample_images/detect1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/sample_images/stylize1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/src/org/tensorflow/demo/AutoFitTextureView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/src/org/tensorflow/demo/CameraActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/src/org/tensorflow/demo/CameraConnectionFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/src/org/tensorflow/demo/Classifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/src/org/tensorflow/demo/ClassifierActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/src/org/tensorflow/demo/OverlayView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/src/org/tensorflow/demo/RecognitionScoreView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/src/org/tensorflow/demo/ResultsView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/src/org/tensorflow/demo/TensorFlowImageClassifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/src/org/tensorflow/demo/env/BorderedText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/src/org/tensorflow/demo/env/ImageUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/src/org/tensorflow/demo/env/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/src/org/tensorflow/demo/env/Size.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/android/tfmobile/src/org/tensorflow/demo/env/SplitTimer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/AppIcon.appiconset/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/AppIcon.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/CameraExampleAppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/CameraExampleAppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/CameraExampleViewController.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/CameraExampleViewController.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/MainStoryboard_iPhone.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/data/graph.lite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/data/labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/main.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/ios/tflite/tflite_photos_example.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/count_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/count_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/evaluate.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/evaluate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/graph_pb2tb.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/graph_pb2tb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/label_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/label_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/quantize_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/quantize_graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/retrain.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/retrain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/show_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/show_image.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow-for-poets-2/scripts/label_image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-746">
+              <caret line="70" column="49" selection-start-line="70" selection-start-column="49" selection-end-line="70" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow-for-poets-2/scripts/retrain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5833">
+              <caret line="185" column="17" selection-start-line="185" selection-start-column="17" selection-end-line="185" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow-for-poets-2/scripts/quantize_graph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1824">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow-for-poets-2/test_images/test_six.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensorflow-for-poets-2/test_images/test-two-1.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tensorflow-for-poets-2" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/classify.py" />
+        <option value="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/retrain.py" />
+        <option value="$PROJECT_DIR$/tensorflow-for-poets-2/scripts/label_image.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="211" />
+    <option name="y" value="28" />
+    <option name="width" value="1424" />
+    <option name="height" value="1016" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow-for-poets-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow-for-poets-2" type="462c0819:PsiDirectoryNode" />
+              <item name="test_images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow-for-poets-2" type="462c0819:PsiDirectoryNode" />
+              <item name="tf_files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow-for-poets-2" type="462c0819:PsiDirectoryNode" />
+              <item name="tf_files" type="462c0819:PsiDirectoryNode" />
+              <item name="numbers_photos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow-for-poets-2" type="462c0819:PsiDirectoryNode" />
+              <item name="tf_files" type="462c0819:PsiDirectoryNode" />
+              <item name="numbers_photos" type="462c0819:PsiDirectoryNode" />
+              <item name="five" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow-for-poets-2" type="462c0819:PsiDirectoryNode" />
+              <item name="tf_files" type="462c0819:PsiDirectoryNode" />
+              <item name="numbers_photos" type="462c0819:PsiDirectoryNode" />
+              <item name="six" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tensorflow-for-poets-2/tf_files" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tensorflow-for-poets-2/test_images" />
+      <recent name="$PROJECT_DIR$/tensorflow-for-poets-2/tf_files/numbers_photos/eight" />
+      <recent name="$PROJECT_DIR$/tensorflow-for-poets-2/tf_files/numbers_photos/six" />
+      <recent name="$PROJECT_DIR$/tensorflow-for-poets-2/tf_files/numbers_photos/five" />
+      <recent name="$PROJECT_DIR$/tensorflow-for-poets-2/tf_files/numbers_photos/four" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba51d700-4642-4e09-8e38-dc9f4ca0ac8f" name="Default Changelist" comment="" />
+      <created>1549453183261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549453183261</updated>
+      <workItem from="1549453184833" duration="1123000" />
+      <workItem from="1549707863884" duration="7805000" />
+      <workItem from="1549737640879" duration="5582000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14510000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="211" y="28" width="1424" height="1016" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27802038" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32951945" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32951945" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.43249428" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tensorflow-for-poets-2/tf_files/flower_photos/daisy/5794835_d15905c7c8_n.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow-for-poets-2/tf_files/retrained_labels.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow-for-poets-2/scripts/label_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-746">
+          <caret line="70" column="49" selection-start-line="70" selection-start-column="49" selection-end-line="70" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow-for-poets-2/scripts/retrain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5833">
+          <caret line="185" column="17" selection-start-line="185" selection-start-column="17" selection-end-line="185" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow-for-poets-2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow-for-poets-2/CONTRIBUTING.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow-for-poets-2/scripts/quantize_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1824">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow-for-poets-2/test_images/test_six.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow-for-poets-2/test_images/test-two-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+</project>
