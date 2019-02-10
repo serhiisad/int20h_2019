@@ -5,9 +5,9 @@ task details:
 ![](task.jpg)
 
 
-To setup project run these commands:
+To setup project in IDE(eg. PyCharm) run these commands:
 
-'''
+```
 python3 -m virtualenv venv
 
 source venv/bin/activate
@@ -18,7 +18,7 @@ deactivate
 
 cd src
 
-'''
+```
 
 ***(optional)***
 to retrain, type in terminal:
