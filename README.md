@@ -1,6 +1,6 @@
-# int20h_2019
+# int20h_2019 hackathon
 
-Team:  ***Павлов_Денис_Сергеевич*** (yes)
+Team:  ***Павлов_Денис_Сергеевич*** 
 
 Topic: ***Data science***
 
