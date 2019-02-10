@@ -5,7 +5,7 @@ task details:
 ![](task.jpg)
 
 
-To setup project run these commands:
+To setup project in IDE(eg. PyCharm) run these commands:
 
 ```
 python3 -m virtualenv venv
