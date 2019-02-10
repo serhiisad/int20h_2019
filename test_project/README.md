@@ -4,6 +4,21 @@ Image classification program to recognize handwritten roman numbers in range 1-8
 task details:
 ![](task.jpg)
 
+
+To setup project run these commands:
+
+'''
+python3 -m virtualenv venv
+
+source venv/bin/activate
+
+pip install -r requirements.txt
+
+deactivate
+
+cd src
+'''
+
 ***(optional)***
 to retrain, type in terminal:
 
