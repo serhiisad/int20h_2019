@@ -7,7 +7,7 @@ task details:
 
 To setup project run these commands:
 
-'''
+```
 python3 -m virtualenv venv
 
 source venv/bin/activate
@@ -18,7 +18,7 @@ deactivate
 
 cd src
 
-'''
+```
 
 ***(optional)***
 to retrain, type in terminal:
